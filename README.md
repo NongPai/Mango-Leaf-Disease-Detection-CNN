@@ -21,20 +21,4 @@ Ensure you have Python 3.x installed. It is recommended to use a virtual environ
 ### 2. Installation
 Install the required libraries using the following command:
 ```bash
-pip install -r requirements.txt
-
-### 3. Running the Web Application
-Navigate to the webapp directory and execute the main script:
-
-🛠️ Technology Stack
-- Deep Learning Framework: TensorFlow / Keras (EfficientNetB0)
-- Zero-Shot Classification: OpenAI CLIP (for input verification)
-- Web Interface: Gradio Framework
-- Data Processing: OpenCV, NumPy, Pandas
-- Development Language: Python
-
-📄 License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
-
-👥 Contributors
-NongPai (Project Lead & Developer)
+pip install -r requirements.tx
