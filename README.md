@@ -22,3 +22,6 @@ Ensure you have Python 3.x installed. It is recommended to use a virtual environ
 Install the required libraries using the following command:
 ```bash
 pip install -r requirements.tx
+
+cd webapp
+python app.py
